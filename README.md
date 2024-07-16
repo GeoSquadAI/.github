@@ -1,3 +1,3 @@
 # .github
 
-### [archeosai.github.io](https://archeosai.github.io/web/)
+### [ARcheos](https://geosquadai.github.io/archeos)
