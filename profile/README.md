@@ -2,6 +2,12 @@
 
 [ARcheos](https://geosquadai.github.io/archeos)
 
+Archeos: Unleash Ancient Wisdom Through Modern Technology!
+Dive into a world where ancient philosophy meets cutting-edge innovation. 📜✨ Archeos is our groundbreaking mobile app that seamlessly combines artificial intelligence, augmented reality (AR) with location awareness (VPS), and natural language understanding to offer you an immersive and educational experience like no other.
+Explore historical sites in augmented reality, converse with AI-powered philosophers, and unlock the secrets of ancient wisdom—all from the palm of your hand.
+Stay tuned for launch dates and exclusive previews!
+#Archeos #AugmentedReality #ArtificialIntelligence #AncientPhilosophy #EducationalTech
+
 <!--
 
 **Here are some ideas to get you started:**
