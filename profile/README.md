@@ -1,4 +1,4 @@
-## Hi there 👋
+## ARcheos
 
 [ARcheos](https://geosquadai.github.io/archeos)
 
