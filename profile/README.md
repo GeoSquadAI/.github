@@ -1,4 +1,4 @@
-## ARcheos
+## [geosquadai.github.io/archeos](https://geosquadai.github.io/archeos)
 
 ![image](https://github.com/user-attachments/assets/6415cf80-c07d-4ef3-909c-35eb134866c6)
 
@@ -11,5 +11,3 @@ Explore historical sites in augmented reality, converse with AI-powered philosop
 Stay tuned for launch dates and exclusive previews!
 
 #Archeos #AugmentedReality #ArtificialIntelligence #AncientPhilosophy #EducationalTech
-
-[geosquadai.github.io/archeos](https://geosquadai.github.io/archeos)
